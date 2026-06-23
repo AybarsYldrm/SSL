@@ -1,0 +1,21 @@
+## Features
+
+- Pure JavaScript implementation using only native Node.js functionality
+- Digital Certificate (X.509) generation and management
+- RSA key generation and cryptographic operations
+  - RSA-2048
+  - RSA-3072
+  - RSA-4096
+- Elliptic Curve Cryptography (ECC)
+  - P-256 (secp256r1)
+  - P-384 (secp384r1)
+  - P-521 (secp521r1)
+- X25519 key exchange
+- AES-GCM authenticated encryption
+  - AES-128-GCM
+  - AES-192-GCM
+  - AES-256-GCM
+- Certificate Signing Request (CSR) generation
+- Public/Private key management
+- PEM and DER encoding support
+- Cryptographically secure random number generation
